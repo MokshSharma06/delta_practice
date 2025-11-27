@@ -1,0 +1,1 @@
+this repository documents my journey of learning Delta Lake from scratch, covering all the core concepts, fundamentals, and hands-on basics required to use Delta Lake in real-world Data Engineering projects.
